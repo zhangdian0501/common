@@ -1,0 +1,11 @@
+body{
+    font-size: 20px;
+    border: 0;
+    margin: 0;
+}
+
+.box{
+    width: 10.80rem;
+    height: 1.00rem;
+    background: rgba(0, 0, 0, .5);
+}
